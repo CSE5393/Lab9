@@ -1,4 +1,4 @@
-# Lab 9: Recurrent Network Architectures
+# Lab 9: RNNs
 
 ## Members
 * Preston Tighe
